@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.greenergrass.com/sitemap.xml
+Sitemap: https://www.greenergrass.com/sitemap-images.xml

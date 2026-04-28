@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.greenergrass.com/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-irrigation.jpg</image:loc>
+      <image:caption>Fort Worth irrigation repair specialists — same-day sprinkler and irrigation system repair in Tarrant County, TX</image:caption>
+      <image:title>Greener Grass Irrigation Repair — Fort Worth, TX</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/og-image.jpg</image:loc>
+      <image:caption>Greener Grass Irrigation Repair LLC — Licensed irrigation contractor serving Fort Worth and all of Tarrant County since 2011</image:caption>
+      <image:title>Greener Grass Irrigation Repair — Fort Worth TX Irrigation Specialists</image:title>
+    </image:image>
+  </url>
+
+  <!-- Services Index -->
+  <url>
+    <loc>https://www.greenergrass.com/services/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-irrigation.jpg</image:loc>
+      <image:caption>Complete irrigation services in Fort Worth TX — repair, installation, winterization, backflow testing, and smart controllers</image:caption>
+      <image:title>Irrigation Services — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Irrigation System Repair -->
+  <url>
+    <loc>https://www.greenergrass.com/services/irrigation-system-repair/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-irrigation-repair.jpg</image:loc>
+      <image:caption>Irrigation system repair in Fort Worth TX — valve replacement, broken pipe repair, controller troubleshooting, and zone diagnosis</image:caption>
+      <image:title>Irrigation System Repair — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sprinkler Head Replacement -->
+  <url>
+    <loc>https://www.greenergrass.com/services/sprinkler-head-replacement/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-sprinkler-heads.jpg</image:loc>
+      <image:caption>Sprinkler head replacement in Fort Worth TX — pop-up, rotary, and MP rotator heads replaced same day in Tarrant County</image:caption>
+      <image:title>Sprinkler Head Replacement — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- System Installation -->
+  <url>
+    <loc>https://www.greenergrass.com/services/system-installation/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-system-install.jpg</image:loc>
+      <image:caption>In-ground irrigation system installation in Fort Worth TX — residential and commercial system design and installation by licensed irrigator</image:caption>
+      <image:title>Irrigation System Installation — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Winterization & Blowout -->
+  <url>
+    <loc>https://www.greenergrass.com/services/winterization-blowout/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-winterization.jpg</image:loc>
+      <image:caption>Irrigation system winterization and blowout service in Fort Worth TX — compressed-air purge to prevent freeze damage before North Texas winter</image:caption>
+      <image:title>Sprinkler Winterization &amp; Blowout — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Spring Startup -->
+  <url>
+    <loc>https://www.greenergrass.com/services/spring-startup/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-spring-startup.jpg</image:loc>
+      <image:caption>Spring irrigation system startup in Fort Worth TX — zone testing, head inspection, and controller reprogramming after winter shutdown</image:caption>
+      <image:title>Spring Sprinkler System Startup — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Backflow Testing & Repair -->
+  <url>
+    <loc>https://www.greenergrass.com/services/backflow-testing-repair/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-backflow.jpg</image:loc>
+      <image:caption>Licensed backflow preventer testing and repair in Fort Worth TX — TCEQ-compliant annual testing with city-filed reports for all irrigated properties</image:caption>
+      <image:title>Backflow Testing &amp; Repair — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Drip Irrigation -->
+  <url>
+    <loc>https://www.greenergrass.com/services/drip-irrigation/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-drip-irrigation.jpg</image:loc>
+      <image:caption>Drip irrigation system design and installation in Fort Worth TX — water-efficient drip lines for garden beds, shrubs, and xeriscape landscaping</image:caption>
+      <image:title>Drip Irrigation Installation — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Smart Controller Upgrades -->
+  <url>
+    <loc>https://www.greenergrass.com/services/smart-controller-upgrades/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-irrigation.jpg</image:loc>
+      <image:caption>Smart irrigation controller upgrade in Fort Worth TX — Rachio 3, Hunter Hydrawise, and Rain Bird WiFi controllers installed and programmed</image:caption>
+      <image:title>Smart Controller Upgrades — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Leak Detection & Repair -->
+  <url>
+    <loc>https://www.greenergrass.com/services/leak-detection-repair/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-irrigation.jpg</image:loc>
+      <image:caption>Underground irrigation leak detection and repair in Fort Worth TX — pressure testing and acoustic detection for clay-soil North Texas conditions</image:caption>
+      <image:title>Irrigation Leak Detection &amp; Repair — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+  <!-- Service Area -->
+  <url>
+    <loc>https://www.greenergrass.com/service-area/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-irrigation.jpg</image:loc>
+      <image:caption>Greener Grass Irrigation Repair service area — Fort Worth, Arlington, Keller, Southlake, Colleyville, Grapevine, and all of Tarrant County TX</image:caption>
+      <image:title>Service Area — Tarrant County TX Irrigation Repair</image:title>
+    </image:image>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://www.greenergrass.com/about/</loc>
+    <image:image>
+      <image:loc>https://www.greenergrass.com/assets/images/hero-irrigation.jpg</image:loc>
+      <image:caption>Greener Grass Irrigation Repair team — Fort Worth TX licensed irrigators with 14+ years serving Tarrant County homeowners and businesses</image:caption>
+      <image:title>About Greener Grass Irrigation Repair — Fort Worth TX</image:title>
+    </image:image>
+  </url>
+
+</urlset>

@@ -1,0 +1,122 @@
+# Greener Grass Irrigation Repair — Full Reference
+
+Irrigation repair company in Fort Worth, TX specializing in sprinkler system repair, installation, winterization, backflow testing, and smart controller upgrades for residential and commercial properties across Tarrant County.
+
+## Business Information
+- Legal Name: Greener Grass Irrigation Repair, LLC
+- Entity Type: Limited Liability Company
+- State of Formation: Texas
+- Phone: (817) 555-0100
+- Email: info@greenergrass.com
+- Address: 1234 Sprinkler Way, Fort Worth, TX 76102
+- Hours: Monday–Friday 7:00 AM–6:00 PM, Saturday 8:00 AM–4:00 PM, Sunday Closed
+- Service Area: Fort Worth, Arlington, Keller, Southlake, Colleyville, Grapevine, North Richland Hills, Hurst, Euless, Bedford, Mansfield, Burleson (all of Tarrant County, TX)
+- Licensed: Yes — Texas TCEQ Irrigator License LI-XXXXXX
+- Insured: Yes — full general liability coverage
+- Founded: 2011
+- Years in Business: 14+
+- Jobs Completed: 2,400+
+- Google Rating: 4.9 stars (127 reviews)
+- Tagline: Repair It Right. Keep It Green.
+
+## Pages
+- Home: https://www.greenergrass.com/ — Main landing page, services overview, free estimate form
+- Services: https://www.greenergrass.com/services/ — Full listing of all irrigation services
+- Irrigation System Repair: https://www.greenergrass.com/services/irrigation-system-repair/ — Same-day diagnosis and repair of broken irrigation systems in Fort Worth
+- Sprinkler Head Replacement: https://www.greenergrass.com/services/sprinkler-head-replacement/ — Replace broken, worn, or misaligned pop-up and rotary heads
+- System Installation: https://www.greenergrass.com/services/system-installation/ — Licensed in-ground irrigation system design and installation
+- Winterization & Blowout: https://www.greenergrass.com/services/winterization-blowout/ — Compressed-air blowout to protect systems from freeze damage
+- Spring System Startup: https://www.greenergrass.com/services/spring-startup/ — Spring inspection, zone testing, and controller programming
+- Backflow Testing & Repair: https://www.greenergrass.com/services/backflow-testing-repair/ — Licensed backflow preventer testing and TCEQ-compliant reporting
+- Drip Irrigation: https://www.greenergrass.com/services/drip-irrigation/ — Water-efficient drip system design and installation
+- Smart Controller Upgrades: https://www.greenergrass.com/services/smart-controller-upgrades/ — Wi-Fi smart controller installation and programming
+- Leak Detection & Repair: https://www.greenergrass.com/services/leak-detection-repair/ — Underground irrigation leak detection and repair
+- Service Area: https://www.greenergrass.com/service-area/ — Complete coverage map and city-by-city service details for Tarrant County
+- About: https://www.greenergrass.com/about/ — Company history, credentials, and team
+- Contact: https://www.greenergrass.com/contact/ — Request a free estimate or call for same-day service
+- Privacy Policy: https://www.greenergrass.com/privacy-policy/ — Privacy policy and CCPA rights
+- Terms of Service: https://www.greenergrass.com/terms/ — Terms governing use of this website
+- Cookie Policy: https://www.greenergrass.com/cookie-policy/ — Cookie disclosure for GA4, Google Fonts, and CDNs
+- Accessibility: https://www.greenergrass.com/accessibility/ — WCAG 2.1 AA conformance statement
+
+## Full About
+Greener Grass Irrigation Repair, LLC started in 2011 with one truck and one principle: show up on time, diagnose it correctly, and fix it the same day. Fourteen years and 2,400+ jobs later, that's still exactly how the company operates — serving Fort Worth and the greater Tarrant County area with the same owner-operated reliability that built its reputation. The team works exclusively in North Texas, which means deep familiarity with Tarrant County clay soil behavior, DFW freeze patterns, and the irrigation brands most commonly installed in the region's neighborhoods and commercial properties. Every repair is quoted at a flat rate before any work begins, and same-day service is available for most calls placed before noon. Greener Grass holds a current Texas TCEQ Irrigator License and carries full liability insurance.
+
+## Service Details
+
+### Irrigation System Repair
+Irrigation system repair covers the full range of failures — broken or stuck valves, dead zones, controller faults, cracked poly pipe, sheared heads, and wiring issues. Most repairs in Fort Worth run $75–$300 depending on the component involved. The process starts with a full zone-by-zone system inspection before any work begins, followed by a flat-rate quote on-site. Trucks carry parts for all major brands including Hunter, Rain Bird, Toro, Orbit, and Irritrol, so most repairs are completed same day without a return visit. Same-day service is available for calls placed before noon in Fort Worth and Tarrant County.
+
+### Sprinkler Head Replacement
+Sprinkler head replacement restores even water coverage across lawn zones where heads have broken, worn down, or shifted out of alignment. Pop-up fixed-spray, rotary, and MP rotator heads are all stocked. Individual head replacement runs $15–$45 per head installed, including labor. Heads are matched to the existing system's precipitation rate and arc coverage to maintain uniform distribution across the zone. Multi-head visits are common for post-winter assessment and post-aeration damage repair.
+
+### System Installation
+Complete in-ground irrigation system design and installation for residential and commercial properties in Fort Worth and Tarrant County. The design process accounts for lot size, soil type, sun/shade zones, water pressure, and local municipal water restrictions. A typical residential installation for a 1/3-acre property runs $2,500–$5,000 depending on zone count and head type. Larger or commercial installations are priced on scope. All installations include a Rachio or Rain Bird smart controller with initial programming and a 90-day workmanship warranty.
+
+### Winterization & Blowout
+Winterization blowout uses compressed air to purge all water from irrigation zones — pipes, valve bodies, lateral lines, and heads — before the first North Texas hard freeze. DFW freeze events are unpredictable and can reach pipe-cracking temperatures (28°F sustained for 4+ hours) as early as November. A preventive blowout runs $85–$150 for most residential systems. Replacing freeze-damaged components typically costs 3–5× more than the blowout. Service is available October through December, with peak scheduling in November.
+
+### Spring System Startup
+Spring startup is a full-system recommission after winter shutdown: water supply restoration, zone-by-zone activation, head inspection and adjustment, pressure verification, controller reprogramming, and a written audit report. A standard residential startup runs $75–$125. Startup visits frequently catch slow leaks, winter-damaged heads, and controller battery failures before they cause lawn damage during the growing season. Available February through April.
+
+### Backflow Testing & Repair
+Annual backflow preventer testing is required by most North Texas municipalities for any property with an irrigation system connected to potable water. Greener Grass holds a current Texas TCEQ Backflow Prevention Assembly Tester license and files all required reports directly with the city. A standard residential test runs $55–$95. Failed devices are repaired or replaced on the same visit where possible — repair costs run $120–$350 depending on the preventer type and failure mode.
+
+### Drip Irrigation
+Drip irrigation delivers water directly to plant root zones via low-flow emitters, eliminating overspray and runoff. Drip systems use 30–50% less water than conventional spray heads for the same coverage area. Design and installation covers garden beds, foundation plantings, shrubs, xeriscape, and vegetable gardens. A typical bed drip install runs $350–$800 depending on linear footage and emitter count. Drip zones can be added to an existing irrigation controller or run on a dedicated timer.
+
+### Smart Controller Upgrades
+Smart controllers replace timer-based scheduling with weather-responsive automation. Supported platforms include Rachio 3, Hunter Hydrawise, and Rain Bird WiFi. Controllers pull real-time local weather data (temperature, precipitation, ET rate) and adjust runtime automatically — typically cutting water use 20–30% compared to fixed-schedule controllers. Installation and programming runs $250–$450 depending on zone count and controller model. Includes full setup of the mobile app and a walkthrough of the scheduling interface.
+
+### Leak Detection & Repair
+Underground irrigation leaks in North Texas clay soil can run for months undetected, wasting thousands of gallons and creating surface saturation or dry zones with no visible breakage. Greener Grass uses pressure testing and acoustic detection equipment to locate leaks without unnecessary excavation. Leak detection and repair typically runs $150–$400 depending on pipe depth and access. Clay soil expertise and knowledge of the pipe materials common to Tarrant County's construction eras speeds diagnosis significantly.
+
+## Frequently Asked Questions
+
+Q: How much does irrigation repair cost in Fort Worth?
+A: Most irrigation repairs in Fort Worth run $75–$300 depending on the problem. A broken sprinkler head costs $50–$100 per head including labor. A valve replacement typically runs $100–$175. Controller replacements run $150–$300 depending on zone count. We give you an upfront flat price before any work begins.
+
+Q: Do you offer same-day irrigation repair service?
+A: Yes. For most repairs in Fort Worth and Tarrant County, same-day service is available when you call before noon. Our trucks are fully stocked so we can complete the majority of repairs on the first visit without a return trip.
+
+Q: When should I winterize my sprinkler system in North Texas?
+A: In the DFW area, winterize between mid-November and early December — before the first hard freeze (28°F or below sustained for 4+ hours). North Texas freezes are unpredictable, and a single event can crack pipes and valves. Replacing freeze-damaged components typically costs 3–5× more than a preventive blowout.
+
+Q: Are you licensed and insured for irrigation work in Texas?
+A: Yes. Greener Grass Irrigation Repair holds a Texas TCEQ Irrigator License (LI-XXXXXX) and carries full liability insurance. Texas law requires all irrigation installation and repair to be performed or directly supervised by a licensed irrigator — always verify your contractor's license before hiring.
+
+Q: What areas do you serve near Fort Worth?
+A: We serve Fort Worth and all of Tarrant County: Arlington, Keller, Southlake, Colleyville, Grapevine, North Richland Hills, Hurst, Euless, Bedford, Mansfield, and Burleson.
+
+Q: Can you upgrade my old irrigation controller to a smart system?
+A: Yes. We install and program Rachio 3, Hunter Hydrawise, and Rain Bird WiFi controllers. Smart controllers adjust watering schedules based on real-time local weather data and typically reduce water usage 20–30%, paying for themselves within one to two Texas summers. Installation runs $250–$450.
+
+Q: What causes most irrigation system failures in North Texas?
+A: Tarrant County clay soil is the primary cause — it expands and contracts significantly with moisture changes, which gradually shifts pipes, cracks fittings, and shears heads off risers. Summer heat stress degrades head components faster, and North Texas freeze events crack valves and pipes that weren't properly winterized.
+
+Q: Do I need a licensed irrigator to repair my system in Texas?
+A: Yes. Texas Occupations Code Chapter 1903 requires that all irrigation system repair be performed or directly supervised by a licensed irrigator. This applies to repair, not just installation. Always ask to see your contractor's current TCEQ license before work begins.
+
+Q: How much does irrigation system installation cost in Fort Worth?
+A: A complete in-ground irrigation system for a typical residential lot in Fort Worth runs $2,500–$8,000 depending on property size, zone count, and head type. A 1/3-acre residential property with 6–8 zones typically runs $3,000–$5,000 including a smart controller. We provide a detailed quote after a free on-site consultation.
+
+Q: How do I know if I have an underground irrigation leak?
+A: Common signs include unexplained spikes in your water bill, soggy or unusually green patches with no rainfall, sunken ground above pipe runs, or dry zones that don't respond to increased run time. Underground leaks in clay soil often show no visible surface water. We use pressure testing and acoustic equipment to locate leaks without unnecessary excavation.
+
+## Certifications & Trust Signals
+- Texas TCEQ Irrigator License: LI-XXXXXX (current)
+- Texas TCEQ Backflow Prevention Assembly Tester (licensed)
+- Licensed and insured — full general liability coverage
+- 14+ years serving Fort Worth and Tarrant County
+- 2,400+ irrigation jobs completed
+- 4.9-star Google rating — 127 verified reviews
+- Same-day service for most repairs placed before noon
+- Flat-rate pricing — price quoted and approved before work begins
+- 90-day workmanship warranty on installations
+- Factory-trained on Hunter, Rain Bird, Toro, Orbit, and Irritrol platforms
+
+## Online Presence
+- Website: https://www.greenergrass.com
+- Google Business Profile: https://g.page/greenergrass
+- Facebook: https://www.facebook.com/greenergrass
+- Instagram: https://www.instagram.com/greenergrass

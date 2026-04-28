@@ -1,0 +1,148 @@
+{
+  "client": {
+    "slug": "greener-grass-irrigation-repair-llc",
+    "name": "Greener Grass Irrigation Repair, LLC",
+    "entityType": "Limited Liability Company",
+    "stateOfFormation": "Texas",
+    "phone": "(817) 555-0100",
+    "email": "info@greenergrass.com",
+    "website": "https://www.greenergrass.com",
+    "address": {
+      "street": "1234 Sprinkler Way",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76102"
+    },
+    "geo": {
+      "lat": 32.7555,
+      "lng": -97.3308
+    },
+    "hours": [
+      "Monday-Friday 7:00 AM – 6:00 PM",
+      "Saturday 8:00 AM – 4:00 PM",
+      "Sunday Closed"
+    ],
+    "yearFounded": 2011,
+    "yearsInBusiness": 14,
+    "tagline": "Repair It Right. Keep It Green.",
+    "description": "Fort Worth's irrigation repair specialists — same-day service, licensed & insured, serving Tarrant County since 2011.",
+    "licenseNumber": "LI-XXXXXX"
+  },
+  "tier": "Standard",
+  "archetype": "Bold/Industrial",
+  "design": {
+    "fonts": {
+      "heading": "Oswald",
+      "headingWeights": "400;500;600;700",
+      "body": "Lato",
+      "bodyWeights": "300;400;700",
+      "headingFontFamily": "'Oswald', system-ui, sans-serif",
+      "bodyFontFamily": "'Lato', system-ui, sans-serif"
+    },
+    "colors": {
+      "primary": "#1b4332",
+      "primaryDark": "#0d2117",
+      "primaryRgb": "27, 67, 50",
+      "primaryDarkRgb": "13, 33, 23",
+      "secondary": "#2d6a4f",
+      "accent": "#8dc63f",
+      "accentDark": "#6ea82e",
+      "accentRgb": "141, 198, 63",
+      "text": "#1a1a1a",
+      "textLight": "#555555",
+      "gray": "#777777",
+      "grayDark": "#333333",
+      "bg": "#ffffff",
+      "bgAlt": "#f2f8f4",
+      "bgDark": "#0d2117",
+      "light": "#edf7f1"
+    },
+    "heroImage": "/assets/images/hero-irrigation.jpg",
+    "ogImage": "/assets/images/og-image.jpg"
+  },
+  "services": [
+    {
+      "name": "Irrigation System Repair",
+      "slug": "irrigation-system-repair",
+      "shortDesc": "Fast diagnosis and repair of broken irrigation systems — valves, controllers, pipes, and heads."
+    },
+    {
+      "name": "Sprinkler Head Replacement",
+      "slug": "sprinkler-head-replacement",
+      "shortDesc": "Replace worn, broken, or misaligned sprinkler heads to restore even coverage across your lawn."
+    },
+    {
+      "name": "System Installation",
+      "slug": "system-installation",
+      "shortDesc": "Complete in-ground irrigation system design and installation for residential and commercial properties."
+    },
+    {
+      "name": "Winterization & Blowout",
+      "slug": "winterization-blowout",
+      "shortDesc": "Protect your system from freeze damage with a thorough compressed-air blowout before winter."
+    },
+    {
+      "name": "Spring System Startup",
+      "slug": "spring-startup",
+      "shortDesc": "Full spring inspection, zone testing, and controller programming to get your system running right."
+    },
+    {
+      "name": "Backflow Testing & Repair",
+      "slug": "backflow-testing-repair",
+      "shortDesc": "Licensed backflow preventer testing and repair to keep your water supply safe and code-compliant."
+    },
+    {
+      "name": "Drip Irrigation",
+      "slug": "drip-irrigation",
+      "shortDesc": "Water-efficient drip systems for beds, shrubs, and gardens — designed and installed to spec."
+    },
+    {
+      "name": "Smart Controller Upgrades",
+      "slug": "smart-controller-upgrades",
+      "shortDesc": "Upgrade to a Wi-Fi smart controller for weather-based scheduling and remote app control."
+    },
+    {
+      "name": "Leak Detection & Repair",
+      "slug": "leak-detection-repair",
+      "shortDesc": "Locate and fix underground irrigation leaks before they become costly water waste."
+    }
+  ],
+  "serviceAreas": [
+    { "city": "Fort Worth", "state": "TX" },
+    { "city": "Arlington", "state": "TX" },
+    { "city": "Keller", "state": "TX" },
+    { "city": "Southlake", "state": "TX" },
+    { "city": "Colleyville", "state": "TX" },
+    { "city": "Grapevine", "state": "TX" },
+    { "city": "North Richland Hills", "state": "TX" },
+    { "city": "Hurst", "state": "TX" },
+    { "city": "Euless", "state": "TX" },
+    { "city": "Bedford", "state": "TX" },
+    { "city": "Mansfield", "state": "TX" },
+    { "city": "Burleson", "state": "TX" }
+  ],
+  "pages": {
+    "home": true,
+    "services": true,
+    "servicePages": true,
+    "serviceArea": true,
+    "areaPages": false,
+    "about": true,
+    "contact": true,
+    "faq": false
+  },
+  "reviews": {
+    "rating": 4.9,
+    "count": 127,
+    "platform": "Google"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/greenergrass",
+    "instagram": "https://www.instagram.com/greenergrass",
+    "google": "https://g.page/greenergrass"
+  },
+  "analytics": {
+    "ga4Id": "G-XXXXXXXXXX",
+    "gscVerification": ""
+  }
+}
