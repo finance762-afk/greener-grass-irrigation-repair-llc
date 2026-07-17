@@ -8,6 +8,7 @@ RewriteCond %{REQUEST_URI} !^/includes/
 
 # Rewrite clean URLs to .php files (no !-d condition — Hostinger subdirectory fix)
 RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 # Redirect .php requests to clean URLs (301 permanent)
