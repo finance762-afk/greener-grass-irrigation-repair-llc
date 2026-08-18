@@ -61,7 +61,7 @@
   <?php endif; ?>
 
   <!-- Framework CSS ───────────────────────────────────────────────────────── -->
-  <link rel="stylesheet" href="/assets/css/framework.css">
+  <link rel="stylesheet" href="/assets/css/framework.css?v=p1m1">
 
   <!-- Favicons ────────────────────────────────────────────────────────────── -->
   <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
