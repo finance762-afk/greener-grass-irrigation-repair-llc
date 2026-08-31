@@ -1140,7 +1140,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                     <button type="submit" class="btn-primary" style="width:100%; justify-content:center; margin-top:var(--space-sm);">
                         <i data-lucide="clipboard-check"></i> Schedule My Test
                     </button>
-                    <p class="form-note">By submitting, you agree to our <a href="/terms/" style="color:var(--color-primary);">Terms</a> and <a href="/privacy-policy/" style="color:var(--color-primary);">Privacy Policy</a>. We never sell your information.</p>
+                    <p class="form-note">By submitting, you agree to our <a href="/terms/" target="_blank" rel="noopener" style="color:var(--color-primary);">Terms</a> and <a href="/privacy-policy/" target="_blank" rel="noopener" style="color:var(--color-primary);">Privacy Policy</a>. We never sell your information.</p>
                 </form>
             </div>
         </div>

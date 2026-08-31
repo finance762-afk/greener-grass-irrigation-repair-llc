@@ -1115,7 +1115,7 @@ $websiteSchemaJson = json_encode([
           </button>
 
           <p class="form-footnote">
-            By submitting, you agree to our <a href="/terms/">Terms</a> and <a href="/privacy-policy/">Privacy Policy</a>.
+            By submitting, you agree to our <a href="/terms/" target="_blank" rel="noopener">Terms</a> and <a href="/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a>.
           </p>
         </form>
       </aside><!-- /.hero-form-card -->
