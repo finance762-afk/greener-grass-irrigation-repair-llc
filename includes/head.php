@@ -130,13 +130,6 @@
         "closes": "16:00"
       }
     ],
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "<?php echo $reviewRating; ?>",
-      "reviewCount": "<?php echo $reviewCount; ?>",
-      "bestRating": "5",
-      "worstRating": "1"
-    },
     "image": "<?php echo $siteUrl; ?>/assets/images/og-image.jpg",
     "logo": "<?php echo $siteUrl; ?>/assets/images/logo.png",
     "priceRange": "$$",

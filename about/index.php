@@ -31,13 +31,6 @@ $schemaMarkup = '{
         "postalCode": "' . $address['zip'] . '",
         "addressCountry": "US"
       },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "' . $reviewRating . '",
-        "reviewCount": "' . $reviewCount . '",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
       "sameAs": [
         "' . $social['facebook'] . '",
         "' . $social['instagram'] . '",
