@@ -934,13 +934,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                     </div>
                 </div>
                 <div class="intro-img-frame" data-animate="wipe-right">
-                    <picture>
-                        <source srcset="/assets/images/backflow-content-1.avif" type="image/avif">
-                        <source srcset="/assets/images/backflow-content-1.webp" type="image/webp">
-                        <img src="/assets/images/backflow-content-1.jpg"
-                             alt="Licensed technician testing backflow preventer on irrigation system in Fort Worth TX"
-                             width="720" height="540" loading="lazy">
-                    </picture>
+                    <img src="https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402477076-d74ab7b8-d3d4-4d0d-8564-166d468e6d00.jpg"
+                         alt="Greener Grass licensed technician testing backflow preventer on irrigation system in Fort Worth TX"
+                         width="720" height="540" loading="lazy">
                     <span class="intro-img-badge">✔ Licensed Tester</span>
                 </div>
             </div>

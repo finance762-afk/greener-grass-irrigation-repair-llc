@@ -8,7 +8,7 @@ $pageTitle       = 'Irrigation System Installation Fort Worth TX | Greener Grass
 $pageDescription = 'Licensed in-ground irrigation system design and installation in Fort Worth and Tarrant County. Residential and commercial. $2,500–$8,000 depending on property size. Licensed TX irrigator.';
 $canonicalUrl    = $siteUrl . '/services/system-installation/';
 $canonicalLink = '<link rel="canonical" href="' . htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8') . '">'; // QA canonical reference
-$ogImage         = $siteUrl . '/assets/images/hero-system-install.jpg';
+$ogImage         = 'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402477076-d74ab7b8-d3d4-4d0d-8564-166d468e6d00.jpg';
 $currentPage     = 'services';
 $schemaMarkup    = false;
 
@@ -140,7 +140,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   min-height: 65vh;
   display: flex;
   align-items: center;
-  background-image: url('/assets/images/hero-system-install.jpg');
+  background-image: url('https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402477076-d74ab7b8-d3d4-4d0d-8564-166d468e6d00.jpg');
   background-size: cover;
   background-position: center 35%;
   overflow: hidden;
@@ -920,17 +920,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
         <div class="intro-image-col" data-animate>
           <div class="intro-image-frame">
-            <picture>
-              <source srcset="/assets/images/system-install-content-1.avif" type="image/avif">
-              <source srcset="/assets/images/system-install-content-1.webp" type="image/webp">
-              <img
-                src="/assets/images/system-install-content-1.jpg"
-                alt="Licensed irrigator laying mainline pipe for new in-ground irrigation system in Fort Worth TX"
-                width="700"
-                height="875"
-                loading="lazy"
-              >
-            </picture>
+            <img
+              src="https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402477076-d74ab7b8-d3d4-4d0d-8564-166d468e6d00.jpg"
+              alt="Greener Grass licensed irrigator installing new in-ground irrigation system in Fort Worth TX"
+              width="700"
+              height="875"
+              loading="lazy"
+            >
           </div>
           <div class="corner-badge">
             <strong><?php echo $yearsInBusiness; ?>+</strong>
@@ -1003,11 +999,11 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
         <?php
         $stepIcons  = ['gauge', 'map', 'shovel', 'cpu', 'check-circle-2'];
         $stepImages = [
-          '/assets/images/system-install-content-2.jpg',
-          '/assets/images/system-install-content-3.jpg',
-          '/assets/images/system-install-content-4.jpg',
-          '/assets/images/system-install-content-5.jpg',
-          '/assets/images/system-install-content-6.jpg',
+          'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402247546-d533a411119381ba6c132ce915e37719.jpg',
+          'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402737214-image_one.jpg',
+          'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402247546-d533a411119381ba6c132ce915e37719.jpg',
+          'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402477076-d74ab7b8-d3d4-4d0d-8564-166d468e6d00.jpg',
+          'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402737214-image_one.jpg',
         ];
         $stepImgAlts = [
           'Water pressure gauge test at Fort Worth TX residential meter before irrigation installation',
@@ -1021,17 +1017,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
         ?>
         <div class="stagger-step" data-animate data-animate-delay="<?php echo $delay; ?>">
           <div class="stagger-step__image">
-            <picture>
-              <source srcset="<?php echo str_replace('.jpg','.avif',$stepImages[$i]); ?>" type="image/avif">
-              <source srcset="<?php echo str_replace('.jpg','.webp',$stepImages[$i]); ?>" type="image/webp">
-              <img
-                src="<?php echo $stepImages[$i]; ?>"
-                alt="<?php echo htmlspecialchars($stepImgAlts[$i]); ?>"
-                width="700"
-                height="500"
-                loading="lazy"
-              >
-            </picture>
+            <img
+              src="<?php echo $stepImages[$i]; ?>"
+              alt="<?php echo htmlspecialchars($stepImgAlts[$i]); ?>"
+              width="700"
+              height="500"
+              loading="lazy"
+            >
           </div>
           <div class="stagger-step__content">
             <div class="stagger-step__icon">

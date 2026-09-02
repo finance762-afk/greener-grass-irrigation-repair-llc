@@ -18,14 +18,14 @@
       "lng": -97.3308
     },
     "hours": [
-      "Monday-Friday 7:00 AM – 6:00 PM",
-      "Saturday 8:00 AM – 4:00 PM",
+      "Monday-Friday 7:00 AM \u2013 6:00 PM",
+      "Saturday 8:00 AM \u2013 4:00 PM",
       "Sunday Closed"
     ],
     "yearFounded": 2011,
     "yearsInBusiness": 14,
     "tagline": "Repair It Right. Keep It Green.",
-    "description": "Fort Worth's irrigation repair specialists — same-day service, licensed & insured, serving Tarrant County since 2011.",
+    "description": "Fort Worth's irrigation repair specialists \u2014 same-day service, licensed & insured, serving Tarrant County since 2011.",
     "licenseNumber": "LI-XXXXXX"
   },
   "tier": "Standard",
@@ -64,7 +64,7 @@
     {
       "name": "Irrigation System Repair",
       "slug": "irrigation-system-repair",
-      "shortDesc": "Fast diagnosis and repair of broken irrigation systems — valves, controllers, pipes, and heads."
+      "shortDesc": "Fast diagnosis and repair of broken irrigation systems \u2014 valves, controllers, pipes, and heads."
     },
     {
       "name": "Sprinkler Head Replacement",
@@ -94,7 +94,7 @@
     {
       "name": "Drip Irrigation",
       "slug": "drip-irrigation",
-      "shortDesc": "Water-efficient drip systems for beds, shrubs, and gardens — designed and installed to spec."
+      "shortDesc": "Water-efficient drip systems for beds, shrubs, and gardens \u2014 designed and installed to spec."
     },
     {
       "name": "Smart Controller Upgrades",
@@ -108,18 +108,54 @@
     }
   ],
   "serviceAreas": [
-    { "city": "Fort Worth", "state": "TX" },
-    { "city": "Arlington", "state": "TX" },
-    { "city": "Keller", "state": "TX" },
-    { "city": "Southlake", "state": "TX" },
-    { "city": "Colleyville", "state": "TX" },
-    { "city": "Grapevine", "state": "TX" },
-    { "city": "North Richland Hills", "state": "TX" },
-    { "city": "Hurst", "state": "TX" },
-    { "city": "Euless", "state": "TX" },
-    { "city": "Bedford", "state": "TX" },
-    { "city": "Mansfield", "state": "TX" },
-    { "city": "Burleson", "state": "TX" }
+    {
+      "city": "Fort Worth",
+      "state": "TX"
+    },
+    {
+      "city": "Arlington",
+      "state": "TX"
+    },
+    {
+      "city": "Keller",
+      "state": "TX"
+    },
+    {
+      "city": "Southlake",
+      "state": "TX"
+    },
+    {
+      "city": "Colleyville",
+      "state": "TX"
+    },
+    {
+      "city": "Grapevine",
+      "state": "TX"
+    },
+    {
+      "city": "North Richland Hills",
+      "state": "TX"
+    },
+    {
+      "city": "Hurst",
+      "state": "TX"
+    },
+    {
+      "city": "Euless",
+      "state": "TX"
+    },
+    {
+      "city": "Bedford",
+      "state": "TX"
+    },
+    {
+      "city": "Mansfield",
+      "state": "TX"
+    },
+    {
+      "city": "Burleson",
+      "state": "TX"
+    }
   ],
   "pages": {
     "home": true,
@@ -144,5 +180,9 @@
   "analytics": {
     "ga4Id": "G-XXXXXXXXXX",
     "gscVerification": ""
-  }
+  },
+  "google_business_profile_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_k77_epK4cRnTP9mvqjc-I",
+  "business_hours": "{\"timetable\": {\"friday\": [{\"open\": {\"hour\": 6, \"minute\": 0}, \"close\": {\"hour\": 18, \"minute\": 0}}], \"monday\": [{\"open\": {\"hour\": 6, \"minute\": 0}, \"close\": {\"hour\": 18, \"minute\": 0}}], \"sunday\": [{\"open\": {\"hour\": 9, \"minute\": 0}, \"close\": {\"hour\": 14, \"minute\": 0}}], \"tuesday\": [{\"open\": {\"hour\": 6, \"minute\": 0}, \"close\": {\"hour\": 18, \"minute\": 0}}], \"saturday\": [{\"open\": {\"hour\": 8, \"minute\": 0}, \"close\": {\"hour\": 17, \"minute\": 0}}], \"thursday\": [{\"open\": {\"hour\": 6, \"minute\": 0}, \"close\": {\"hour\": 18, \"minute\": 0}}], \"wednesday\": [{\"open\": {\"hour\": 6, \"minute\": 0}, \"close\": {\"hour\": 18, \"minute\": 0}}]}, \"current_status\": \"open\"}",
+  "gbp_place_id": "ChIJU_k77_epK4cRnTP9mvqjc-I",
+  "address": {}
 }

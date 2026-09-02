@@ -8,7 +8,7 @@ $pageDescription  = "Protect your irrigation system from North Texas freeze dama
 $canonicalUrl     = $siteUrl . '/services/winterization-blowout/';
 $canonicalLink = '<link rel="canonical" href="' . htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8') . '">'; // QA canonical reference
 $currentPage      = 'services';
-$ogImage          = $siteUrl . '/assets/images/hero-winterization.jpg';
+$ogImage          = 'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402247546-d533a411119381ba6c132ce915e37719.jpg';
 $useSwiper        = false;
 
 $serviceSchema = generateServiceSchema([
@@ -78,7 +78,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
     min-height: 65vh;
     display: flex;
     align-items: center;
-    background-image: url('/assets/images/hero-winterization.jpg');
+    background-image: url('https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402247546-d533a411119381ba6c132ce915e37719.jpg');
     background-size: cover;
     background-position: center 40%;
     overflow: hidden;
@@ -907,13 +907,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                     </div>
                 </div>
                 <div class="intro-img-frame" data-animate="wipe-right">
-                    <picture>
-                        <source srcset="/assets/images/winterization-content-1.avif" type="image/avif">
-                        <source srcset="/assets/images/winterization-content-1.webp" type="image/webp">
-                        <img src="/assets/images/winterization-content-1.jpg"
-                             alt="Irrigation technician connecting compressed-air compressor to sprinkler system blowout port in Fort Worth TX"
-                             width="720" height="540" loading="lazy">
-                    </picture>
+                    <img src="https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402247546-d533a411119381ba6c132ce915e37719.jpg"
+                         alt="Greener Grass irrigation technician performing sprinkler system winterization blowout service in Fort Worth TX"
+                         width="720" height="540" loading="lazy">
                     <span class="intro-img-badge">✔ Licensed Technician</span>
                 </div>
             </div>

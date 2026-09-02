@@ -8,7 +8,7 @@ $pageDescription  = "Full spring irrigation inspection, zone testing, and contro
 $canonicalUrl     = $siteUrl . '/services/spring-startup/';
 $canonicalLink = '<link rel="canonical" href="' . htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8') . '">'; // QA canonical reference
 $currentPage      = 'services';
-$ogImage          = $siteUrl . '/assets/images/hero-spring-startup.jpg';
+$ogImage          = 'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402737214-image_one.jpg';
 $useSwiper        = false;
 
 $serviceSchema = generateServiceSchema([
@@ -78,7 +78,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
     min-height: 65vh;
     display: flex;
     align-items: center;
-    background-image: url('/assets/images/hero-spring-startup.jpg');
+    background-image: url('https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402737214-image_one.jpg');
     background-size: cover;
     background-position: center 30%;
     overflow: hidden;
@@ -931,13 +931,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                 </div>
                 <div class="intro-img-stack">
                     <div class="img-main" data-animate="wipe-right">
-                        <picture>
-                            <source srcset="/assets/images/spring-startup-content-1.avif" type="image/avif">
-                            <source srcset="/assets/images/spring-startup-content-1.webp" type="image/webp">
-                            <img src="/assets/images/spring-startup-content-1.jpg"
-                                 alt="Irrigation technician inspecting sprinkler head during spring startup in Fort Worth TX"
-                                 width="720" height="576" loading="lazy">
-                        </picture>
+                        <img src="https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402737214-image_one.jpg"
+                             alt="Greener Grass irrigation technician inspecting sprinkler system during spring startup in Fort Worth TX"
+                             width="720" height="576" loading="lazy">
                     </div>
                     <div class="img-float-badge">
                         <strong>Mid-March</strong>

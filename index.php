@@ -1220,18 +1220,18 @@ $websiteSchemaJson = json_encode([
       // Standard cards: services 1–5 (skip index 0 = featured)
       $standardCards = array_slice($services, 1, 5);
       $cardImages = [
-        'https://source.unsplash.com/600x400/?sprinkler,head,lawn',
-        'https://source.unsplash.com/600x400/?irrigation,installation,garden',
-        'https://source.unsplash.com/600x400/?winter,pipe,freeze',
-        'https://source.unsplash.com/600x400/?spring,lawn,green',
-        'https://source.unsplash.com/600x400/?plumbing,valve,backflow',
+        'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402737214-image_one.jpg',
+        '/assets/images/hero-system-install.jpg',
+        'https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402247546-d533a411119381ba6c132ce915e37719.jpg',
+        '/assets/images/hero-spring-startup.jpg',
+        '/assets/images/hero-backflow.jpg',
       ];
       foreach ($standardCards as $i => $svc):
-        $imgUrl = $cardImages[$i] ?? 'https://source.unsplash.com/600x400/?irrigation,lawn';
+        $imgUrl = $cardImages[$i] ?? '/assets/images/hero-irrigation.jpg';
       ?>
       <article class="service-card" data-animate="fade-up" aria-label="<?php echo htmlspecialchars($svc['name'], ENT_QUOTES, 'UTF-8'); ?>">
         <div class="service-card-image">
-          <img src="https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777405505653-Greener_Grass_Irrigation_Repair_-_Imgur.jpg'UTF-8'); ?>"
+          <img src="<?php echo htmlspecialchars($imgUrl, ENT_QUOTES, 'UTF-8'); ?>"
                alt="<?php echo htmlspecialchars($svc['name'], ENT_QUOTES, 'UTF-8'); ?> service in Fort Worth TX"
                width="600" height="400" loading="lazy">
         </div>

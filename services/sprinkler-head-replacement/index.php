@@ -1028,17 +1028,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
         <div class="intro-image-side" data-animate data-animate-delay="200">
           <div class="intro-image-frame">
-            <picture>
-              <source srcset="/assets/images/sprinkler-heads-content-1.avif" type="image/avif">
-              <source srcset="/assets/images/sprinkler-heads-content-1.webp" type="image/webp">
-              <img
-                src="/assets/images/sprinkler-heads-content-1.jpg"
-                alt="Technician replacing pop-up sprinkler head in Fort Worth TX lawn"
-                width="600"
-                height="800"
-                loading="lazy"
-              >
-            </picture>
+            <img
+              src="https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402737214-image_one.jpg"
+              alt="Greener Grass technician inspecting sprinkler head during zone check in Fort Worth TX"
+              width="600"
+              height="800"
+              loading="lazy"
+            >
           </div>
           <div class="floating-tag">All major brands in stock</div>
         </div>
@@ -1063,17 +1059,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
         <div class="diagnostic-image-col" data-animate>
           <div class="anatomy-frame">
-            <picture>
-              <source srcset="/assets/images/sprinkler-heads-content-2.avif" type="image/avif">
-              <source srcset="/assets/images/sprinkler-heads-content-2.webp" type="image/webp">
-              <img
-                src="/assets/images/sprinkler-heads-content-2.jpg"
-                alt="Sprinkler head anatomy and coverage pattern diagram for Fort Worth TX lawn irrigation"
-                width="700"
-                height="875"
-                loading="lazy"
-              >
-            </picture>
+            <img
+              src="https://db.pageone.cloud/storage/v1/object/public/client-assets/greener-grass-irrigation-repair-llc/photos/1777402247546-d533a411119381ba6c132ce915e37719.jpg"
+              alt="Greener Grass Irrigation Repair technicians replacing and adjusting sprinkler heads in Fort Worth TX"
+              width="700"
+              height="875"
+              loading="lazy"
+            >
             <div class="anatomy-caption">
               <strong>Coverage Pattern</strong>
               <ul class="callout-list">
