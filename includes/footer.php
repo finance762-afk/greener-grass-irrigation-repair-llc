@@ -208,6 +208,7 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/includes/functions.php';
     </div><!-- /.container -->
   </div><!-- /.footer-bottom -->
 
+  <?php include __DIR__ . '/partner-badge.php'; ?>
 </footer><!-- /.site-footer -->
 
 <!-- Back-to-Top Button ──────────────────────────────────────────────────────── -->
